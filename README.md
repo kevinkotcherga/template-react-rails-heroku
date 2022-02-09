@@ -1,25 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Un template pour commencer un projet avec ruby on rails 7, react, redux et le déployer plus tard sur heroku.
 
-Things you may want to cover:
+Installer avec :
 
-* Ruby version
+```
+npm i
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# template-react-rails-heroku
