@@ -7,6 +7,14 @@ Un template pour commencer un projet avec ruby on rails 7, react, redux et le d√
 Installer avec :
 
 ```
+git clone 
+rm -rf .git 
+git init .
+git add .
+git commit -m "First commit"
+gh repo create
+git push -u origin main
+
 npm i
 ```
 
