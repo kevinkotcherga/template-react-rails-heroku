@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
+  resources :exos
   namespace :api do
-    resources :notes, only: [:index]
+    resources :notes
+    resources :messages
 
     get "/me", to: "users#show"
     post "/signup", to: "users#create"

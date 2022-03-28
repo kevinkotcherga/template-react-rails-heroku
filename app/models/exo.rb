@@ -1,0 +1,2 @@
+class Exo < ApplicationRecord
+end
